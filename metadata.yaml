@@ -1,0 +1,64 @@
+_repo: Figures-of-Earth--A-Comedy-of-Appearances_11639
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Papé, Frank Cheyne
+    aliases:
+    - Papé, Frank C.
+    - Pape, Frank Cheyne
+    birthdate: 1878
+    deathdate: 1972
+    gutenberg_agent_id: '39182'
+    url: http://www.gutenberg.org/2009/agents/39182
+creator:
+  author:
+    agent_name: Cabell, James Branch
+    alias: Cabell, Branch
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '166'
+    url: http://www.gutenberg.org/2009/agents/166
+    wikipedia: http://en.wikipedia.org/wiki/James_Branch_Cabell
+description: "Figures of Earth: A Comedy of Appearances (1921) is a fantasy novel\
+  \ or ironic romance by James Branch Cabell, set in the imaginary French province\
+  \ of Poictesme during the first half of the 13th century. The book follows the earthly\
+  \ career of Dom Manuel the Redeemer from his origins as a swineherd, through his\
+  \ elevation to the rank of Count of Poictesme, to his death. It forms the second\
+  \ volume of Cabell's gigantic Biography of the Life of Manuel.\nCabell's working\
+  \ title for Figures of Earth was initially The Fairy Time, then The Figure or The\
+  \ Figures, before the final version emerged. The book was published in February\
+  \ 1921, during the legal battle to clear his previous novel, Jurgen, from charges\
+  \ of obscenity. He accordingly dedicated Figures of Earth to \"six most gallant\
+  \ champions\" who had rallied to Jurgen's defense: Sinclair Lewis, Wilson Follett,\
+  \ Louis Untermeyer, H. L. Mencken, Hugh Walpole, and Joseph Hergesheimer. The scandal\
+  \ that surrounded Cabell's name at this time may have adversely affected reviews\
+  \ of Figures of Earth, which, according to the author, registered \"some disappointment\
+  \ over its lack of indecency\"; he himself preferred Figures of Earth to Jurgen.\
+  \ In the \"Author's Note\" preceding the novel's 1927 reprint, Cabell observed that\
+  \ \"Not many other volumes, I believe, have been burlesqued and cried down in the\
+  \ public prints by their own dedicatees\" alluding to the fact that both Untermeyer\
+  \ and Mencken had publicly expressed dislike with the novel in comparison with Jurgen.\
+  \ A 1925 reissue included illustrations by Frank C. Papé. In Cabell's later years\
+  \ Figures of Earth fell, like most of his other works, into comparative neglect,\
+  \ but two paperback reissues in 1969 and 1971, with introductions by Lin Carter\
+  \ and James Blish respectively, brought it back into circulation.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11639'
+  wikidata: Q5448084
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wit and humor'
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: 'Figures of Earth: A Comedy of Appearances'
+url: http://www.gutenberg.org/ebooks/11639
+wikipedia:
+- https://en.wikipedia.org/wiki/Figures_of_Earth
